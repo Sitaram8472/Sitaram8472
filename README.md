@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sitaram Sahu</h1>
-<h3 align="center">• Passionate about in Frontend Development, creating responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and Bootstrap. • Passionate about solving complex problems using Data Structures and Algorithms (DSA) with a strong focus on optimization. • Proficient in programming languages like Java, Python, and JavaScript, with hands-on practice in competitive programming. 👉 I have solved over 100+ Questions on Leetcode and over 200+ Question on Codechef. • Continuously learning and exploring innovative technologies to contribute to impactful and scalable software solutions.</h3>
+<h3 align="center">• Passionate about in Frontend Development <br> Creating responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and Bootstrap. <br> • Passionate about solving complex problems using Data Structures and Algorithms (DSA) with a strong focus on optimization. <br>• Proficient in programming languages like Java, Python, and JavaScript, with hands-on practice in competitive programming. <br> 👉 I have solved over 100+ Questions on Leetcode and over 200+ Question on Codechef. <br> • Continuously learning and exploring innovative technologies to contribute to impactful and scalable software solutions.</h3>
 
 - 🌱 I’m currently learning **Nodejs**
 
