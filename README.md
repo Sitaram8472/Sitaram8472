@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sitaram Sahu</h2>
+ <h2 align="left">Hi 👋! My name is Sitaram Sahu</h2>
 
 ###
 
@@ -32,6 +32,10 @@
 
 ###
 
+<p align="left">connected with me :-</p>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/sitaramraj831?igsh=MTYwbjNzdmZ6N2NtbA==&utm_source=ig_contact_invite" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,9 +50,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<p align="left">Skills:-</p>
 
 ###
 
