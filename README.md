@@ -1,5 +1,18 @@
 # 💫 About Me:
-💫 Hi 👋, I'm Sitaram Sahu<br>I am a passionate problem solver and Full Stack Developer with a strong foundation in Data Structures and Algorithms, focused on building efficient, optimized, and scalable solutions. I enjoy solving complex problems and translating ideas into reliable full-stack applications.<br><br>Alongside development, I am currently learning Machine Learning to broaden my skill set and explore intelligent, data-driven systems.<br><br>📧 Email: sitaramsahu8472@gmail.com<br><br>⚡ Fun fact: I genuinely enjoy working with technology
+Hi, I'm **Sitaram**.
+
+I'm a software developer and technology enthusiast passionate about building practical applications, solving complex problems, and continuously improving my engineering skills.
+
+My interests span backend development, full-stack web applications, automation, and modern software architecture. I enjoy turning ideas into real products while focusing on clean code, scalability, and user experience.
+
+I'm constantly learning new technologies and strengthening my understanding of data structures, algorithms, databases, APIs, and cloud-based development. I believe the best way to grow is by building, experimenting, and shipping projects that solve real-world problems.
+
+I enjoy collaborating with developers, contributing to technical discussions, and exploring emerging technologies such as artificial intelligence, developer tools, and distributed systems.
+
+My goal is to build products that create meaningful impact while continuously expanding my knowledge as a software engineer. I'm always open to challenging opportunities that help me learn, innovate, and contribute to ambitious teams.
+
+**Currently seeking internships, sponsorships, collaborations, freelance opportunities, and full-time software engineering roles.**
+
 
 
 ## 🌐 Socials:
